@@ -1,4 +1,4 @@
-# rdq-grilling-skills
+# pre-work-skills
 
 一鍵安裝三個 Claude Code skill：
 
@@ -12,12 +12,12 @@
 
 **Windows (PowerShell)**
 ```powershell
-git clone https://github.com/tedchen0814/rdq-grilling-skills.git ; cd rdq-grilling-skills ; .\install.ps1
+git clone https://github.com/tedchen0814/pre-work-skills.git ; cd pre-work-skills ; .\install.ps1
 ```
 
 **macOS / Linux / Git Bash**
 ```bash
-git clone https://github.com/tedchen0814/rdq-grilling-skills.git && cd rdq-grilling-skills && ./install.sh
+git clone https://github.com/tedchen0814/pre-work-skills.git && cd pre-work-skills && ./install.sh
 ```
 
 一律安裝到 `~/.claude/skills/`（全域），腳本不提供專案層選項，也不接受參數。
