@@ -1,0 +1,6 @@
+interface:
+  display_name: "做深做廣（deep-and-wide）"
+  short_description: "幫你把任務或日常目標想得更深：預設拉高並做深，查前例、追原始材料與外部判官；要時再做廣，交付診斷與重寫後提示詞"
+  default_prompt: "請用 $deep-and-wide 把這個任務做深：先給四問診斷與重寫後提示詞，問過我再執行；要做廣我會另外說。"
+policy:
+  allow_implicit_invocation: true
